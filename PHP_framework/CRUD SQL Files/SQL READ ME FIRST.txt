@@ -1,0 +1,4 @@
+This file contains the GGCAE database
+The Database contains six tables - student, gender, school, formGradeLevel, subject and studentSubject. 
+Primary & Foreign key have already been designated for each table
+Relationships have been formed - you may modify at your discretion/create more relationships as you need them
